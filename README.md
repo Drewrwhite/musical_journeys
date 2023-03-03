@@ -16,6 +16,7 @@
 Musical Journeys is a project that creates a music genre classification machine learning model, gives song recommendations based on what song you classify and suggests a place to visit where others have a similar taste in music.
 
 
+
 ## Technologies Used
 
 
@@ -27,11 +28,9 @@ Musical Journeys is a project that creates a music genre classification machine 
 * matplotlib
 
 
-
-</br>
-
 ## Sources:
 
+[GTZAN Dataset - Music Classification](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification)
 
 ## Description:
 ## Visualizations
