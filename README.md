@@ -13,6 +13,7 @@
 ### Links:
 [Looker Dashboard](#)
 ## Summary:
+Musical Journeys is a project that creates a music genre classification machine learning model, gives song recommendations based on what song you classify and suggests a place to visit where others have a similar taste in music.
 
 
 ## Technologies Used
@@ -20,7 +21,10 @@
 
 * Python
 * Pandas
-* Spotipy
+* Spotipy - lightweight Python library for the Spotify Web API
+* scikit-learn - tools for predictive data analysis
+* Librosa -python package for music and audio analysis
+* matplotlib
 
 
 
