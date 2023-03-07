@@ -1,5 +1,7 @@
-## Musical Journeys
+
 ![Musical Journeys](images/theme.png)
+## Musical Journeys
+
 #### By [Drew White](https://www.linkedin.com/in/drew-riley-white/)
 
 
