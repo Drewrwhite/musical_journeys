@@ -1,5 +1,12 @@
+jupyterlab
 librosa
 scikit-learn
 matplotlib
 pandas
 spotipy
+pycountry
+gcsfs
+google-cloud-storage
+google-cloud-bigquery
+google-auth
+pyarrow
