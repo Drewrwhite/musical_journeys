@@ -14,7 +14,7 @@
 [Known Bugs](#known-bugs) |
 [License](#license)
 ### Links:
-[Looker Dashboard](#)
+[Looker Dashboard]([#](https://lookerstudio.google.com/reporting/d58436df-6658-44dd-98e2-5ec8c0674f1c))
 ## Summary:
 Musical Journeys is a project that creates a music genre classification machine learning model, gives song recommendations based on what song you classify and suggests a place to visit where others have a similar taste in music.
 
@@ -32,7 +32,7 @@ Steps will possibly be:
 11. If I have enough time I might try to see if I can create user interfacing with flask
 
 
-## Technologies Used
+## Technologies Used:
 
 
 * Python
@@ -48,8 +48,8 @@ Steps will possibly be:
 [GTZAN Dataset - Music Classification](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification)
 
 ## Description:
-## Visualizations
-
+## Visualizations:
+![Confusion Matrix](images/confusion_matrix.png)
 ## Known Bugs
 
 * No known bugs
