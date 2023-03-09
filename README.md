@@ -60,7 +60,7 @@ _A confusion matrix is a table that is commonly used to evaluate the performance
 
 <img src="images/map.png" height=60% width=60%>
 
-<img src="images/charts.png" height=60% width="60%>
+<img src="images/charts.png" height=60% width=60%>
 
 ## Goals
 _I would like to keep adding to this project and have the following goals:_
