@@ -62,7 +62,7 @@ _A confusion matrix is a table that is commonly used to evaluate the performance
 <img src="images/charts.png" height=50% width=50%>
 
 ## Goals
-_I would like to keep adding to this project and have some feature goals going forward:_
+_I would like to keep adding to this project and have the following goals:_
 1. In the data that I analyzed, no meta data for Artist or Title was present. I would like to find a way to analyze the music and pull that information. I made attempts to do this with the `Shazam API` and `AcoustID` but did not have any luck.
 2. Continue training this model to make the accuracy score higher with all genres.
 3. With genres in mind, I would like to bring sub-genres into the model.
@@ -70,6 +70,41 @@ _I would like to keep adding to this project and have some feature goals going f
 5. Pull more market data and explore different means to do so. I was able to get a general market popularity rating but I feel like some missing information that could be placed would change results. For example, Finland is said to be the most passionate country about metal music. My results showed Canada and USA markets.
 
 ## Setup
+
+* Clone by inputting following into terminal: 
+  ```bash
+  git clone https://github.com/Drewrwhite/musical_journeys.git
+  ```
+* Navigate to directory:
+  ```bash
+  cd <directory>
+  ```
+* Create a virtual environment:
+  ```bash
+  python3.7 -m venv venv
+  ```
+* Activate virtual environment:
+  ```bash
+  source venv/bin/activate
+  ```
+* Install requirements:
+  ```bash
+  pip install -r requirements.txt
+  ```
+* Create `data` directory:
+  ```bash
+  mkdir data
+  ```
+* Open directory in VSCode:
+  ```bash
+  code .
+  ```
+* Download data from Kaggle and save in `data` directory:
+  ```bash
+  https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification
+  ```
+
+</br>
 
 ## Known Bugs
 
