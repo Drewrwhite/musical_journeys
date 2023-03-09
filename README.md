@@ -58,9 +58,9 @@ Musical Journeys is a project that creates a music genre classification machine 
 
 _A confusion matrix is a table that is commonly used to evaluate the performance of a machine learning model. It displays the number of true positives, true negatives, false positives, and false negatives for a given set of predictions when compared to the actual outcomes._
 
-<img src="images/map.png" height="60%" width="60%">
+<img src="images/map.png" height=60% width=60%>
 
-<img src="images/charts.png" height="60%" width="60%">
+<img src="images/charts.png" height=60% width="60%>
 
 ## Goals
 _I would like to keep adding to this project and have the following goals:_
