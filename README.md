@@ -16,7 +16,8 @@
 [Known Bugs](#known-bugs) |
 [License](#license)
 ### Links:
-[Looker Dashboard]([#](https://lookerstudio.google.com/reporting/d58436df-6658-44dd-98e2-5ec8c0674f1c))
+[Looker Dashboard](https://lookerstudio.google.com/reporting/d58436df-6658-44dd-98e2-5ec8c0674f1c)
+
 ## Summary:
 Musical Journeys is a project that creates a music genre classification machine learning model, gives song recommendations based on what song you classify and suggests a place to visit where others have a similar taste in music.
 
@@ -57,9 +58,9 @@ Musical Journeys is a project that creates a music genre classification machine 
 
 _A confusion matrix is a table that is commonly used to evaluate the performance of a machine learning model. It displays the number of true positives, true negatives, false positives, and false negatives for a given set of predictions when compared to the actual outcomes._
 
-<img src="images/map.png" height=50% width=50%>
+<img src="images/map.png" height=60% width=60%>
 
-<img src="images/charts.png" height=50% width=50%>
+<img src="images/charts.png" height=60% width=60%>
 
 ## Goals
 _I would like to keep adding to this project and have the following goals:_
